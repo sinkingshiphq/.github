@@ -1,1 +1,1 @@
-![Sinking Ship](./banner.png)
+![Sinking Ship](banner.png)
